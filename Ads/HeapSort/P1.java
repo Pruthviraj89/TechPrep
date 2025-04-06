@@ -21,10 +21,12 @@ class MaxHeap{
 	
 	void heapsort(int arr[]){
 		int n=arr.length;
-		
+		//Below for loop to sort all the sub trees 
 		for(int i=n/2-1;i>=0;i--)
 			heapify(arr,n,i);
 		
+		
+		//below for loop to replace the lastnode value to root node and again balancing the tree out
 		for(int i=n-1;i>=0;i--){
 			int temp=arr[0];
 			arr[0]=arr[i];
