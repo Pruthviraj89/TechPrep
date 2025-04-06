@@ -12,6 +12,31 @@ class BinarySearch{
 			root=null;
 		}
 	}
+	
+	
+	boolean searchNode(Node head, int key){
+		if(head==null)
+			return false;
+		Node temp=head;
+		if(temp.key==key){
+		return true;}
+		else {
+			if(key<temp.key){
+				return searchNode(temp.left,key);
+			}else{
+				return searchNode(temp.right,key);
+			}
+			
+		}
+		
+	}
+	
+	//wrapperSearch
+	boolean search(int key){
+		return searchNode(root,key);
+	}
+	
+	
 	Node insertData(Node root,int key){
 		if(root==null){
 			Node new_node=new Node(key);
@@ -80,5 +105,6 @@ class Binary{
 		s1.insert(46);
 		s1.delete(46);
 		s1.display(s1.root);
+		System.out.println(s1.search(35));
 	}
 }
