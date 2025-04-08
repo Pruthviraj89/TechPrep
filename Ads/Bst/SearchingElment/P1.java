@@ -1,9 +1,5 @@
 
-
-
-
 //Array should be sorted then pass it to Binary search
-
 
 
 
