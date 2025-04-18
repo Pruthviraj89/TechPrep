@@ -1,0 +1,110 @@
+quick learner
+active listener
+team player
+
+
+1. Tell me about yourself.
+----------------------------------------------------------------------------------------------------------------------
+"Good [morning/afternoon/evening], thank you for this opportunity!
+
+My name is Pruthviraj. I completed my 10th from St. Joseph High School and my 12th from Mahatma Phule College of Science. I pursued a Bachelor’s degree in Information Technology from Mumbai University and graduated with 74%.
+
+I have a strong understanding of Java and Spring Boot, and I have worked on various projects that helped me build practical experience in backend development. I am also familiar with databases like MySQL.
+
+In my final year, I worked on a crowdfunding platform using blockchain. It was a decentralized system designed to ensure transparency, security, and efficient fund management. The platform allowed seamless interaction between campaign creators, administrators, and users. We built it using Next.js, MySQL, and Smart Contracts with Solidity, and my role was to manage the backend by storing campaign details in the MySQL database.
+
+Apart from that, I also developed a PathoCure Lab website, which enables users to book blood test appointments online. A lab technician visits the user’s location for sample collection, and reports are generated and delivered digitally within a week.
+
+Coming to my achievements, I successfully cleared the NPTEL Java certification, conducted by IIT Kharagpur, and achieved the Elite level.
+
+As for my career goals:
+
+My short-term goal is to enter the field of Information Technology by securing a position where I can apply my skills effectively.
+
+My long-term goal is to reach a level of proficiency where I can make key decisions that contribute to my company’s success.
+
+In my free time, I enjoy playing cricket and coding, as I love solving real-world problems through technology.
+-------------------------------------------------------------------------------------------------------------------------------
+Why should we hire you?
+
+As a fresher, I have the ability, but the ability is nothing without an opportunity. So, if you will provide me an opportunity to work with your company, I will do my best and I will give full of determination and dedication for completing all the assigned tasks in the given time.
+Also, my core competence and programming knowledge what I have will definitely help me and help company for the organisational goals.
+-------------------------------------------------------------------------------------------
+Why do you want to work at our company?
+
+-point: read company website have they recently did something good appreciate them
+As I am a fresher, I would like to learn and start my career in a reputed company like yours and I believe that your company is one which provides a bunch of opportunities for freshers to work on different technologies and enhance their skills and improve their knowledge and experience.
+---------------------------------------------------------------------------------------------------------------------------
+Where do you see yourself five years from now?
+
+In five years, I would like to see myself in a leading position with more responsibility, knowledge, and skills. I would be more mature regarding my personality and taking decisions for this organisation and encourage my juniors to give their best.
+----------------------------------------------------------------------------------------------------------------------
+How much salary do you expect?
+
+As a fresher, I don't have any expectation but I'm sure that whatever you offer will be fair with a qualification like me. Of course, salary matters to me but my first preference is that I'm looking for the opportunity to enhance my skills.
+----------------------------------------------------------------------------------------------------------------------
+Can you work under pressure?
+
+Sir, Life is all about pressure.
+Actually, we are living in pressure Only. Whether it is a Study, Family Expectation, exams, Job, Money, Waiting for results, Career etc. In our daily life, we handle all this pressure. So working under the pressure is NOT a very big.
+----------------------------------------------------------------------------------------------------------------------
+Are you willing to relocate or travel?
+
+Yes sir, depending upon the needs and requirements of the company, I will not have any issue with the relocation. It would be my pleasure to relocate myself because I will be able to get a lot of knowledge and a lot of experience from different cultures and different kinds of people, which will be beneficial for me as well as for my company and changes are always for good.
+----------------------------------------------------------------------------------------------------------------------
+What makes you angry?
+
+Getting angry is human nature, but controlling that is the key to success.
+I also get angry when anyone underestimates me, then I will show my anger with my success, not in my words.
+---------------------------------------------------------------------------------------------------------------------
+Tell me something about our company.
+
+As per my knowledge, your company is fast growing, a well-reputed company in the market, employee oriented and also your company provides lots of opportunity in future and well defined adaptable atmosphere.
+----------------------------------------------------------------------------------------------------------------------
+Do you have any questions for me?
+
+First of all thank you very much, sir, for being polite and friendly throughout the session with me, that I can express myself so easily. I want to ask what are the qualities you are expecting from freshers like us and could you please tell me what should I improve before I join your company, obviously if I am selected, if I am not selected today your opinion will help me a lot.
+
+-----------------------------------------------------------------------------------------------------------------------
+Would you lie for the company?
+Who is your role model? Why?
+why there is education gap?
+Can you describe a challenging situation and how you handled it?
+How do you handle stress and pressure?
+--------------------------------------------------------------------------------------------------------
+how will you manage conflict between two teams?
+if a conflict arrieses in two team, i will begin with active listening between two parties.i will ask them to explain their side of story and listen carefully what they want to say.by this i will able to understand the root cause of conflict and enable me to come with resolution that is fair to both the parties. additionally active listening help to build trust and maintain positive working relationship.
+
+
+-----------------------------------------------------------------------------------------------------------
+3. What are your strengths?
+
+I think one of my greatest strengths is that I am a great team player. I am also a self-motivated and quick learning individual. Whatever task that I set to do, I always give my best and complete it diligently well in advance.
+----------------------------------------------------------------------
+he bolu shaktos: as i had a weakness where i used to spend lot amount of time in one task as i used to gain deeper understanding of the concepts in it which used to consume a lot of time  as when i recognized it i started sheduling my task in   a day which not only made me to achieve goals but as well made me multitasker
+ 
+
+--------------------------------------------------------------------------------
+
+What are your weaknesses?
+i used to spend lot of time in one task which used to consume lot of time but gaining deep understand of particular concepts 
+
+
+How would you rate yourself on a scale of 1 to 10?
+
+
+
+
+
+
+
+
+
+
+
+Hi, My name is Pruthviraj.I am a 4th year BE IT student at Terna Engineering college . My primary interest lies in field of android. I started programming in C language when I was in first year and During my second year i got to know about java programming language, my experience with C has provided me with a good understanding of low-level programming concepts, memory management. This knowledge has seamlessly translated to Java, enabling me to write efficient and optimized code while taking advantage of Java's high-level abstractions and built-in libraries. One of the main differences I have noticed is that Java is an object-oriented programming language, whereas C is primarily procedural. However, this transition has been an exciting learning opportunity for me.  I have enjoyed exploring Java's powerful object-oriented features, such as classes, inheritance, and polymorphism. I have also  build an desktop application in college project with my teamates . The familiarity with Java allowed me to quickly adapt to Android development, as both share a similar syntax and object-oriented principles." During my third year  I had the chance to work on practical web development projects. For instance, I collaborated with a team to develop a responsive website for a local organization.  I was responsible for implementing back-end  features using react,Express and mongodb.  This experience allowed me to understand the importance of writing clean and organized code. I have also participated in college hackthone where  I was genuinely curious about exploring Flutter in android development. My main objective was to get a taste of what Flutter could do and gain some initial exposure to the technology."
+
+
+
+
+
