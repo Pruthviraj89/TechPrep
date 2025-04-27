@@ -1,0 +1,28 @@
+HTML invented by berners-lee
+
+
+- <!doctype html>
+defines this document is html5
+- <html>
+root element
+-<head>
+contains meta information
+-<title>
+title for html page
+
+-<body>
+defines the document body
+
+-<h1>
+heading tag
+
+-<p>
+paragraph tag
+
+- <a href="">
+anchor tag contains href attribute
+
+- <img src="" alt="">
+image tag
+alt alternative text
+
