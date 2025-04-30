@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <script>
+
+        class cat {
+            constructor(){
+                console.log("this is a cat");
+            }
+
+            display(){
+                var obj={
+                    name:"cat",
+                    height: "5 inch",
+                    price: "25000",
+                    location: "jamnager"
+                }
+                console.log(obj);
+            }
+        }
+
+
+        class Animal extends cat{
+            constructor(name,type){
+                super();
+               this.name=name;
+                this.type=type;
+            }
+
+            display(){
+                super.display();
+                console.log(this.name,this.type);
+            }
+        }
+
+        var ani=new Animal("tiger","carnivorous");
+
+        ani.display();
+
+        async function multiply(a, b) {
+            return new Promise((resolve, reject) => {
+                setTimeout(() => {
+                    var result = a * b;
+                    if (result == 100) {
+                        resolve(result);
+                    } else {
+                        reject(" A and B are not 10");
+                    }
+                }, 2000)
+            })
+        }
+
+
+        async function sum(a, b) {
+            return new Promise((resolve, reject) => {
+
+                setTimeout(() => {
+                    var res = a + b;
+
+                    if (res == 10) {
+                        resolve(res);
+                    } else {
+                        reject("sum of addition is not 10");
+                    }
+                }, 1000);
+
+            });
+        }
+
+
+        async function test() {
+            try {
+
+                var suming = await sum(5, 5);
+                console.log(suming);
+                var multiplying = await multiply(10, 10);
+                console.log(multiplying);
+            } catch (error) {
+                console.log(error);
+            }
+        }
+
+        test();
+
+    </script>
+</body>
+
+</html>

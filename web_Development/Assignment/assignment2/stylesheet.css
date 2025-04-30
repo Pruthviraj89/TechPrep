@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Roboto;
+   
+}
+
+body{
+    background-image: linear-gradient(to right top, #0e129e, #0064ec, #0099e7, #00c79a, #12eb17);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.paragraph{
+    height: 200px;
+    border: solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin-top: 20px;
+    height: 50px;
+    border: solid red;
+    display: flex;
+    justify-content: center;
+}
+
+.para-pg{
+    font-size: 10px;
+    text-align: justify;
+   padding-left: 35px;
+   padding-right: 35px;
+   font-weight:normal;
+}
+
+.btn-pg{
+    height: inherit;
+    width: 250px;
+padding: 20px;
+font-weight: bold;
+border-radius: 1rem;
+color: #020574;
+cursor: pointer;
+background-color: #12EB17;
+border: none;
+outline: none;
+transition: background   0.5s ease-in;
+}
+.btn-pg:hover{
+    background-color: #0E129E;
+    color: white;
+}
+.btn-pg:active{
+    box-shadow: 0px 0px 50px rgba(0,0, 0, .6);
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Assignment2</title>
+</head>
+<body>
+    <div class="paragraph">
+        <p class="para-pg">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla excepturi ducimus illum temporibus ea, at dolor quos repellendus laboriosam enim nemo dolore, iste accusantium error magni delectus neque obcaecati. Sit, dolores magnam?Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim facilis hic, ex ad quibusdam ab illum sequi illo facere? Vitae facere impedit molestias ad itaque sequi in nihil, labore cumque repudiandae enim?
+        </p>
+       
+    </div>
+
+    <div class="btn">
+       <input type="button" value="Wanna See Magic!! Click Me" 
+       onclick="changeStyle()"
+       class="btn-pg" >
+    </div>
+
+
+  <script>
+    function changeStyle(){
+        var para=document.querySelector('.para-pg');
+        para.style.fontSize='20px';
+        para.style.fontWeight='bold';
+        para.style.color='white';
+    }
+  </script>
+</body>
+</html>
